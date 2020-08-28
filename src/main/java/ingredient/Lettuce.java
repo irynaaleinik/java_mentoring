@@ -1,8 +1,11 @@
 package ingredient;
 
-public class Lettuce extends Vegetable {
+
+public class Lettuce extends Vegetable{
 
     public Lettuce(){
-        super.calories = 15;
+        super.calories = 5;
+
     }
+
 }
